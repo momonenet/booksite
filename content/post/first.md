@@ -2,12 +2,12 @@
 author: "Kong Shangren"
 title: "Peach Blossom Fan"
 date: "2019-03-05"
-description: ""Peach Blossom Fan" is a legendary play created by Kong Shangren, a writer in the Qing Dynasty. It was completed in June in the thirty-eighth year of Emperor Kangxi's reign (1699), and the first edition was published in the forty-seventh year of Kangxi's reign (1708). "Peach Blossom Fan" What is written is a story that happened in Nanjing at the end of the Ming Dynasty. The whole play takes the joys and sorrows of Hou Fangyu and Li Xiangjun as the main line, showing the social reality of Nanjing at the end of the Ming Dynasty."
+description: "\"Peach Blossom Fan\" is a legendary play created by Kong Shangren, a writer in the Qing Dynasty. It was completed in June in the thirty-eighth year of Emperor Kangxi's reign (1699), and the first edition was published in the forty-seventh year of Kangxi's reign (1708). \"Peach Blossom Fan\" What is written is a story that happened in Nanjing at the end of the Ming Dynasty. The whole play takes the joys and sorrows of Hou Fangyu and Li Xiangjun as the main line, showing the social reality of Nanjing at the end of the Ming Dynasty."
 tags: [""]
 categories: ["Reality"]
 ShowToc: true
 ShowBreadCrumbs: true
-summary: ""Peach Blossom Fan" is a legendary play written by Kong Shangren, a writer in the Qing Dynasty. What is written is a story that happened in Nanjing at the end of the Ming Dynasty. The whole play takes the joys and sorrows of Hou Fangyu and Li Xiangjun as the main line, showing the social reality of Nanjing at the end of the Ming Dynasty."
+summary: "\"Peach Blossom Fan\" is a legendary play written by Kong Shangren, a writer in the Qing Dynasty. What is written is a story that happened in Nanjing at the end of the Ming Dynasty. The whole play takes the joys and sorrows of Hou Fangyu and Li Xiangjun as the main line, showing the social reality of Nanjing at the end of the Ming Dynasty."
 ---
 
 ## The first time I saw that the Plum Blossom Taoist Temple was filled with the words painted by Molan Zhuanglou
